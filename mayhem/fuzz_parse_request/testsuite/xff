@@ -1,0 +1,4 @@
+GET /a/../hello.txt HTTP/1.0
+X-Forwarded-For: 1.2.3.4
+User-Agent: curl
+Referer: http://e/
